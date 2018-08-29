@@ -1,0 +1,8 @@
+{
+  "name": "x-typescript-node-vscode",
+  "main": "index.ts",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}
