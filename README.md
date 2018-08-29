@@ -37,3 +37,4 @@ Set a breakpoint on one of the lines such as line 5 in [index.ts](/index.ts) and
 3. [Debugging Node.js apps in TypeScript with Visual Studio Code](https://fettblog.eu/typescript-node-visual-studio-code/)
 4. [TypeScript Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript)
 5. [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
+6. [StackOverflow: How to run Mocha tests written in TypeScript?](https://stackoverflow.com/questions/26977722/how-to-run-mocha-tests-written-in-typescript/35661569#35661569)
