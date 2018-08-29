@@ -29,3 +29,11 @@ Start up VSCode if you haven't already (tested with VSCode v1.25.1):
 ```
 
 Set a breakpoint on one of the lines such as line 5 in [index.ts](/index.ts) and start debugging by pressing the `F5` key or select `Debug: Start Debugging` form the VSCode command pallet.
+
+## Other resources:
+
+1. [Debugging TypeScript from VSCode](https://medium.com/spektrakel-blog/debugging-typescript-from-vscode-3cb3a182bf63)
+2. [Debugging TypeScript Mocha Tests With VSCode](https://medium.com/@benlesh/debugging-typescript-mocha-tests-with-vscode-89310051531)
+3. [Debugging Node.js apps in TypeScript with Visual Studio Code](https://fettblog.eu/typescript-node-visual-studio-code/)
+4. [TypeScript Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript)
+5. [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging)
